@@ -13,6 +13,8 @@ Currently I like to make silly Discord bots and some silly CLI games. I try not 
 
 My interests are varied and diverse and I usually base my projects off of them. I'm currently working on Asuka, a gambling bot written in Python using discord.py, named after Asuka Langley-Soryu from Evangelion, for example. 
 
+Currently my Github serves as a backup for my projects, but I will allow contributions in the future.
+
 <!---
 medohxamali/medohxamali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
